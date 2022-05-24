@@ -1,1 +1,1 @@
-# informatyka1B1
+# informatyka1b
