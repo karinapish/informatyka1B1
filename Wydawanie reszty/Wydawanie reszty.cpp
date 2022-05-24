@@ -4,7 +4,7 @@ using namespace std;
 int main() {
 	int nominaly[9] = { 500, 200, 100, 50, 20, 10, 5, 2, 1 };
 	int kwota;
-	cout << "Podaj reszte do wyplacenia: ";
+	cout << "Podaj reszte do wyplacenia:  ";
 	cin >> kwota;
 	int ile;
 	int i;
